@@ -6,4 +6,5 @@ public abstract class BaseMessage {
 	public abstract String getType();
 
 	public abstract String toString();
+	
 }
