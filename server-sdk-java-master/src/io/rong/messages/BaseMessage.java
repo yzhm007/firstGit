@@ -8,5 +8,6 @@ public abstract class BaseMessage {
 	public abstract String toString();
 
 	//comment  20170209  1055
+	//1357
 	
 }
